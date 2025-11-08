@@ -15,9 +15,13 @@ Currently on an intensive automation journey — converting years of manual test
 
 When I'm not hunting bugs or writing test scripts, I'm probably debugging life over a cup of coffee or binging QA tutorials on YouTube ☕💻
 
-✨ **Random QA Quote:**
+<div align="center">
 
-> "It's not a bug, it's an undocumented feature!" 😄
+## ✨ **Random QA Quote:**
+
+# *"It's not a bug, it's an undocumented feature!"* 😄
+
+</div>
 
 ## **Talking about Personal Stuff:**
 
