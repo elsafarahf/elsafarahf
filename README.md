@@ -64,24 +64,6 @@ When I'm not hunting bugs or writing test scripts, I'm probably debugging life o
 **CI/CD:** GitLab • GitHub • Bitbucket • Bamboo • Allure Reports  
 **Performance:** JMeter • Database testing with Sequel Ace
 
-## **Projects and QA Stuff:**
-
-### 📋 **Documentation & Reports**
-
-- 📝 [Test Plan](https://drive.google.com/file/d/1fhH_6x1mOYKuRlPc0nCrj6Pidm-bWS7G/view?usp=sharing)
-- ✅ [Test Cases](https://drive.google.com/file/d/1W_nySZSZy-_n24K-GJ0ANHEQohvteEkn/view?usp=sharing)
-- 🐛 [Bug Report](https://drive.google.com/file/d/1rbE7_f-Cb6oateEpVa89cU9Ve6S1XwS_/view?usp=sharing)
-- 🔧 [API Testing with Postman](https://drive.google.com/file/d/1do78uJqjZ6xDhqACQkyqIGGaULf4EHUg/view?usp=sharing)
-
-### 🚀 **Automation Projects**
-
-- 🌐 [API Automation using Karate](https://github.com/elsafarahf/qa-automation-karate)
-- ⚡ [API Automation using Mocha](https://github.com/elsafarahf/mocha-api-automation)
-- 🖥️ [Web Automation Fundamentals](https://github.com/elsafarahf/mocha-web-automation-fundamental)
-- 🔥 [Advanced Web Automation](https://github.com/elsafarahf/mocha-web-automation-advance-part2)
-- 📱 [Mobile Automation Part 1](https://github.com/elsafarahf/appium-mobile-automation-fundamental-part2)
-- 📲 [Mobile Automation Part 2](https://github.com/elsafarahf/appium-mobile-automation-fundamental-part2)
-
 ---
 
 ⭐ **Show some ❤️ by starring the repositories!**
